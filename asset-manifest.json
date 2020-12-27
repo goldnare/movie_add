@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/goldnare/movie_add/static/css/main.f5f5b56f.chunk.css",
+    "main.js": "/goldnare/movie_add/static/js/main.c9c31e93.chunk.js",
+    "main.js.map": "/goldnare/movie_add/static/js/main.c9c31e93.chunk.js.map",
+    "runtime-main.js": "/goldnare/movie_add/static/js/runtime-main.ec0758ef.js",
+    "runtime-main.js.map": "/goldnare/movie_add/static/js/runtime-main.ec0758ef.js.map",
+    "static/js/2.b4333fe2.chunk.js": "/goldnare/movie_add/static/js/2.b4333fe2.chunk.js",
+    "static/js/2.b4333fe2.chunk.js.map": "/goldnare/movie_add/static/js/2.b4333fe2.chunk.js.map",
+    "index.html": "/goldnare/movie_add/index.html",
+    "static/css/main.f5f5b56f.chunk.css.map": "/goldnare/movie_add/static/css/main.f5f5b56f.chunk.css.map",
+    "static/js/2.b4333fe2.chunk.js.LICENSE.txt": "/goldnare/movie_add/static/js/2.b4333fe2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec0758ef.js",
+    "static/js/2.b4333fe2.chunk.js",
+    "static/css/main.f5f5b56f.chunk.css",
+    "static/js/main.c9c31e93.chunk.js"
+  ]
+}
